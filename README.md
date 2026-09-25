@@ -15,6 +15,7 @@ I build scalable web applications and focus on backend development and problem-s
 ## 📌 Projects
 - Todo App – CRUD-based task manager
 - Personalized News Filter – Web app that fetches and filters news based on user preferences using API integration
+- Attendance Analysis Agent – Web app for managing, analyzing, and predicting student attendance with role-based access and reports
 
 ## Currently Building
 - Real-time Chat App (Socket.io based)
